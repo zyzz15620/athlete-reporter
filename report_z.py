@@ -11,7 +11,7 @@ MARTIAL=["pencaksilat","karate","muay","kickboxing","boxing","taekwondo","tradit
 def ReadMySQL(discip):
 	mydb = mysql.connector.connect(
 	host="localhost",
-	user="lequocthang",
+	user="user",
 	password="angel123",
 	database="athlete_data"
 	)
