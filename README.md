@@ -12,3 +12,7 @@
 - Tùy Biến: Sửa đổi lại Template (dòng 75) dẫn đến file Template mẫu
 - Tùy Biến: Sửa lại phạm vi các môn võ cần xuất báo cáo (dòng 9)
 - Tạo Báo Cáo: Chạy script để tạo ra các báo cáo cá nhân cho các vận động viên trong cơ sở dữ liệu.
+
+## Yêu Cầu:
+- Python 3.x
+- Các thư viện cần thiết: mysql.connector, matplotlib, textwrap, docxtpl, jinja2, numpy
